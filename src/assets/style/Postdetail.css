@@ -1,0 +1,93 @@
+
+   .container {
+    backgroundColor: #FFF;
+  }
+
+  .title {
+  fontFamily:Serif;
+  fontSize:24;
+  fontWeight: bold;
+
+  color: black;
+
+ 
+  }
+  .author {
+  fontFamily: serif;
+  fontSize:12;
+  fontWeight: bold;
+  fontStyle: italic;
+ 
+  color: black;
+
+ 
+  }
+    .logo {
+    width: 300;
+    marginTop:7;
+    maxHeight: 100;
+  }
+    .published_date {
+  fontFamily: serif;
+  fontSize:12;
+  marginTop:5;
+  fontStyle: italic;
+
+  color: #000000;
+
+ 
+  }
+  .Sub_headline {
+  fontFamily: serif;
+  fontSize:16;
+  marginTop:15;
+   fontWeight: bold;
+  fontStyle: italic;
+  fontWeight: 400;
+  color: #141823;
+
+ 
+  }
+
+  .description {
+ fontFamily: serif;
+  color: #141823;
+  fontSize:16;
+  lineHeight: 25;
+  flex: 6;
+  justifyContent:center;
+  alignItems: center;
+  fontStyle: normal;
+  fontWeight: 400;
+  
+  }
+   .subscription {
+ fontFamily: serif;
+  color: #141823;
+  marginLeft:30;
+  fontSize:16;
+  lineHeight: 25;
+  flex: 6;
+  justifyContent: center;
+  alignItems: center;
+  fontStyle: normal;
+  fontWeight: 400;
+  
+  }
+   .or {
+ fontFamily: serif;
+  color: #141823;
+  marginLeft:60;
+  fontSize:16;
+  lineHeight: 25;
+  flex: 6;
+  justifyContent: center;
+  alignItems: center;
+  fontStyle: normal;
+  fontWeight: bold;
+  
+  }
+  .image {
+    height: 220;
+    width:null;
+  }
