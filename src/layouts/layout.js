@@ -46,7 +46,7 @@ class DefaultLayout extends Component {
         <Toolbar>
           
           <Typography style={{alignItems:'center',alignContent:'center',alignSelf:'center'}}variant="h6" noWrap>
-            (Addis)Fortune
+           get stream
           </Typography>
         </Toolbar>
       </AppBar>
@@ -66,7 +66,7 @@ class DefaultLayout extends Component {
   left: "10",
   bottom: "0",
   
-  }}> <img src={'https://addisfortune.net/adfads2018/derba/1.gif' } alt="Advert Place" style={{width:'100%',height: "100%",}}  /></div>
+  }}> <img src={'url' } alt="Advert Place" style={{width:'100%',height: "100%",}}  /></div>
     </div>
 				</main>
 			</div>
