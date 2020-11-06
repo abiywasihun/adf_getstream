@@ -8,8 +8,8 @@ class App extends React.Component {
     return(
       <Layout>
       <StreamApp
-            apiKey="xk7kgcb8b8km"
-            appId="50116"
+            apiKey="apikey"
+            appId="api_id"
             token="token"
       >
          <FlatFeed
